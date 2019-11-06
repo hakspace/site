@@ -1,0 +1,136 @@
+html {
+    background-color: black;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    margin: 0px auto;
+    padding: 0px 0px;
+    font-family: Helvetica, Arial, sans-serif;
+    color: var(--abouttor-text-color);
+    background-color: var(--abouttor-bg-toroff-color);
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+
+.torcontent-container {
+    margin: 40px 20px 28px 20px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+@media only screen and (min-width: 900px) {
+    .torcontent-container {
+      margin: 40px auto 28px auto;
+      max-width: 1000px;
+      padding-top: 10%;
+    }
+  }
+
+  .torcontent-container-2 {
+    margin: 40px 20px 28px 20px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+@media only screen and (min-width: 900px) {
+    .torcontent-container-2 {
+      margin: 40px auto 28px auto;
+      max-width: 1000px;
+    }
+  }
+
+
+#ey2019_banner {
+    background-image: url('../../img/blue_flag.svg');
+    background-size: contain;
+    background-position: 90% 100%;
+    background-repeat: no-repeat;
+    max-width: 540px;
+    margin: 0 auto;
+  }
+
+  #ey2019_1 {
+    margin-bottom: 30px;
+  }
+  
+  #ey2019_2 {
+    margin-bottom: 30px;
+    text-align: left;
+  }
+  
+  #ey2019_3 {
+    padding-bottom: 30px;
+    text-align: left;
+  }
+
+
+#ey2019_tracking {
+    color: lime;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    text-align: left;
+    max-width: 305px;
+  }
+
+#ey2019_takeback {
+    color: lime;
+    font-family: 'LeagueGothic', sans-serif;
+    font-size: 60px;
+    line-height: 52px;
+    text-transform: uppercase;
+    width: 245px;
+    font-synthesis: style;
+    text-align: left;
+  }
+
+  #ey2019_2 {
+    margin-bottom: 30px;
+    text-align: left;
+  }
+
+  a#ey2019_donate_mobile,
+a#ey2019_donate {
+  border: 3px solid blueViolet;
+  background: black;
+  color: white;
+  padding: 0.2em 0.8em;
+  text-transform: uppercase;
+  font-size: 1.5em;
+  font-family: 'LeagueGothic', sans-serif;
+  text-decoration: none;
+  display: inline-block;
+  margin-left: 5px;
+  margin-right: 35px;
+  vertical-align: super;
+}
+
+a#ey2019_donate_mobile,
+a#ey2019_donate:hover {
+  background: blueViolet;
+  color: black;
+}
+
+
+  #ey2019_mozilla {
+    color: white;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 14px;
+    font-weight: 400;
+    display: inline-block;
+    max-width: 300px;
+    text-align: left;
+    margin-top: 10px;
+  }
+
+  p#footer {
+      position: absolute;
+      bottom: 2px;
+  }
+
+  
