@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" inkscape:output_extension="org.inkscape.output.svg.inkscape" sodipodi:docname="BBB.svg" inkscape:version="0.46" sodipodi:version="0.32"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="181.961px"
+	 height="266.148px" viewBox="0 0 181.961 266.148" enable-background="new 0 0 181.961 266.148" xml:space="preserve">
+<inkscape:perspective  inkscape:vp_z="249 : 134 : 1" inkscape:vp_y="0 : 1000 : 0" sodipodi:type="inkscape:persp3d" inkscape:vp_x="0 : 134 : 1" id="perspective32" inkscape:persp3d-origin="124.5 : 89.333333 : 1">
+	</inkscape:perspective>
+<linearGradient id="path3159_1_" gradientUnits="userSpaceOnUse" x1="0.5142" y1="72.6863" x2="105.9263" y2="72.6863">
+	<stop  offset="0" style="stop-color:#0000B2"/>
+	<stop  offset="1" style="stop-color:#000066"/>
+</linearGradient>
+<path id="path3159" fill="url(#path3159_1_)" stroke="#000000" stroke-linejoin="bevel" d="M104.777,19.151
+	c1.695-19.655,2.595,1.007-5.298,2.756c-17.654,4.486-35.921,5.383-54.04,4.025c-5.53-0.414-29.282-9.634-29.668-7.206
+	c3.228,6.037,5.301,35.755,3.603,50.861c0.191,14.662-16.803,52.624-18.86,65.06c24.83-14.862,43.234-18.562,67.178-11.442
+	c5.854,1.74,19.701,2.597,21.616-4.874c1.325-3.815,0.66-6.728,1.138-11.232c1.368-12.909-0.794,5.533,2.254-6.569
+	C98.139,78.914,103.081,38.807,104.777,19.151z"/>
+<linearGradient id="re_1_" gradientUnits="userSpaceOnUse" x1="-1502.0566" y1="-85.5203" x2="-1490.3535" y2="-85.5203" gradientTransform="matrix(-0.893 -0.45 0.3218 -0.9468 -1171.0587 -618.2024)">
+	<stop  offset="0" style="stop-color:#783000"/>
+	<stop  offset="0.75" style="stop-color:#000000"/>
+	<stop  offset="1" style="stop-color:#642800"/>
+</linearGradient>
+<path id="re" fill="url(#re_1_)" d="M179.521,6.388L179.521,6.388c-1.918-1.014-4.03-0.105-4.724,2.026l-81.471,251.62
+	c-0.691,2.135,0.303,4.685,2.219,5.699l0,0c1.918,1.016,4.031,0.104,4.722-2.026l81.474-251.62
+	C182.434,9.954,181.439,7.402,179.521,6.388z"/>
+<linearGradient id="path2186_1_" gradientUnits="userSpaceOnUse" x1="-1247.0923" y1="405.3967" x2="-1161.8291" y2="405.3967" gradientTransform="matrix(-1 0 0 1 -1071.4961 -343)">
+	<stop  offset="0" style="stop-color:#0000B2"/>
+	<stop  offset="1" style="stop-color:#000066"/>
+</linearGradient>
+<path id="path2186" fill="url(#path2186_1_)" stroke="#000000" stroke-linejoin="bevel" d="M175.596,9.376
+	c-12.723,2.369-33.988,4.3-40.609,1.948c-6.619-2.353-13.462-6.938-21.277-9.291c-8.041-2.422-11.438,0.707-12.586,8.542
+	c-2.84,26.854-10.188,74.689-10.791,97.401c5.093-10.784,20.375-8.947,46.604,15.584c0.021-9.169-1.037-38.691,9.44-58.741
+	c10.478-20.049,12.597-31.062,17.832-38.211C169.444,19.461,175.129,13.505,175.596,9.376z"/>
+</svg>
